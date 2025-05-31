@@ -5,7 +5,7 @@ This is a Responsive Navigation Bar that i watched and learned from youtuber Cod
 ![image](https://github.com/user-attachments/assets/9ac21315-73e5-43a9-8076-ec4482b72773)
 
 If you want to watch his video here's the link 👇🏼👇🏼👇🏼<br>
-https://www.youtube.com/watch?v=U8smiWQ8Seg
+https://www.youtube.com/watch?v=U8smiWQ8Seg<br>
 Thank You! Coding2GO
 
 
